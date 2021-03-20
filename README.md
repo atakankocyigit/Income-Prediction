@@ -1,5 +1,5 @@
 # Income-Prediction
-Performance comparison was made by using 6 different machine learning models in the project, where the income data set was used. The following libraries must be installed in order to run the project.
+The project was developed in R programming language. Performance comparison was made by using 6 different machine learning models in the project, where the income data set was used. The following libraries must be installed in order to run the project.
 - library(e1071)
 - library(caTools)
 - library(tree)
